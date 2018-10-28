@@ -1,4 +1,4 @@
-**Adam Stacoviak:** We're here today with Bryan Helmig, CTO of Zapier. Zapier makes you happier, right, Bryan?
+**Adam Stacoviak:** We're here today with Bryan Helmig, CTO of Zapier. And Zapier makes you happier, right, Bryan?
 
 **Bryan Helmig:** That's correct.
 
